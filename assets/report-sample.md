@@ -1,6 +1,6 @@
 # 示例输出（真实流程运行）/ Sample Output (real workflow run)
 
-> 本报告由 `monetize` 技能按 `SKILL.md` 流程**真实运行一次**产生（2026-10-31，含实时联网检索）。
+> 本报告由 `extra-income` 技能按 `SKILL.md` 流程**真实运行一次**产生（2026-10-31，含实时联网检索）。
 > **人设为虚构**；价格与薪资为运行当天检索所得的市场数据（来源见附录 A），仅用于演示分析深度，不构成任何真实建议。
 > This report was produced by an actual run of the skill (live web verification included). The persona is fictional; prices are real market data retrieved on 2026-10-31.
 

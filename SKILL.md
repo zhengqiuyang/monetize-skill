@@ -1,9 +1,9 @@
 ---
-name: monetize
-description: Mine your monetization potential and produce an actionable side-income plan — hidden-skills audit, income-opportunity scan, experience productization, the single biggest leverage move, salary-ceiling benchmarking, and an AI side-hustle starter pack. Background intake via résumé parsing or a guided interview. 挖掘个人变现潜力，产出可执行的副业与收入方案：隐藏技能审计、收入机会扫描、经验产品化、最大杠杆点、薪资对标、AI 副业启动包，支持简历解析或引导访谈。Use whenever the user mentions monetizing skills/experience, side income, side hustle, income opportunities, salary ceiling, career leverage, 变现、副业、外快、睡后收入、技能变现、薪资天花板、职业杠杆、"我的技能能做什么"、"帮我想想怎么多赚钱" — or pastes a résumé / career history asking what they could do to earn more, even if neither 变现 nor monetize appears.
+name: extra-income
+description: Mine your earning potential and produce an actionable side-income plan — hidden-skills audit, income-opportunity scan, experience productization, the single biggest leverage move, salary-ceiling benchmarking, and an AI side-hustle starter pack. Background intake via résumé parsing or a guided interview. 挖掘个人变现潜力，产出可执行的副业与收入方案：隐藏技能审计、收入机会扫描、经验产品化、最大杠杆点、薪资对标、AI 副业启动包，支持简历解析或引导访谈。Use whenever the user mentions earning from skills and experience, side income, side hustle, income opportunities, salary ceiling, career leverage, 变现、副业、外快、睡后收入、技能变现、薪资天花板、职业杠杆、"我的技能能做什么"、"帮我想想怎么多赚钱" — or pastes a résumé / career history asking what they could do to earn more, even if neither 变现 nor 额外收入 appears.
 ---
 
-# 变现潜力挖掘（Monetize）
+# 额外收入规划（Extra Income）
 
 把用户的职业背景转化为一份诚实、可执行的变现方案。最终产出是一份报告文件 + 一个"只先做一件事"的收敛结论，不是一堆鸡汤。
 
@@ -43,7 +43,7 @@ description: Mine your monetization potential and produce an actionable side-inc
 - 第 2 轮 · 资源：每周可投入几小时；启动预算上限；现有渠道（粉丝、社群、老客户）
 - 第 3 轮 · 目标与约束：月收入目标；绝对不想做的事（露脸、写代码、占用周末等）；所在城市 / 可服务的语言
 
-采集完把背景整理成 `monetize-profile.md` 写到工作区。之后复跑时先问是否沿用更新这份 profile，不要重新访谈一遍。
+采集完把背景整理成 `extra-income-profile.md` 写到工作区。之后复跑时先问是否沿用更新这份 profile，不要重新访谈一遍。
 
 ## 第 1-6 步：六大模块
 
@@ -87,7 +87,7 @@ description: Mine your monetization potential and produce an actionable side-inc
 
 ## 报告输出
 
-写到工作区 `monetization-report.md`：
+写到工作区 `extra-income-report.md`：
 
 ```markdown
 # 变现潜力分析报告 — <姓名/代号> · <日期>
