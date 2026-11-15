@@ -2,19 +2,19 @@
 
 <div align="center">
 
-# 💰 extra-income
+# 💰 monetize
 
-**Turn your career history into an honest, actionable extra-income plan — inside your AI agent.**
+**Turn your career history into an honest, actionable side-income plan — inside your AI agent.**
 
 把你的职业经历，变成一份诚实、可执行的变现方案
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent_Skills-compatible-8A2BE2?style=flat-square)](https://agentskills.io)
-[![Stars](https://img.shields.io/github/stars/zhengqiuyang/extra-income-skill?style=flat-square&color=0969da)](https://github.com/zhengqiuyang/extra-income-skill/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/zhengqiuyang/extra-income-skill?style=flat-square&label=updated)](https://github.com/zhengqiuyang/extra-income-skill/commits/main)
+[![Stars](https://img.shields.io/github/stars/zhengqiuyang/monetize-skill?style=flat-square&color=0969da)](https://github.com/zhengqiuyang/monetize-skill/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/zhengqiuyang/monetize-skill?style=flat-square&label=updated)](https://github.com/zhengqiuyang/monetize-skill/commits/main)
 
 ```bash
-npx skills add zhengqiuyang/extra-income-skill
+npx skills add zhengqiuyang/monetize-skill
 ```
 
 [What it is](#what) · [Why](#why) · [How it works](#how) · [Install](#install) · [Usage](#usage) · [Sample](#sample) · [Principles](#principles) · [Markets](#markets)
@@ -37,9 +37,9 @@ A six-module skill that turns one person's real experience into an income plan t
 
 ## Why / 为什么
 
-Generic "how do I make money with AI" prompts are one-off: paste a prompt, get ten interchangeable ideas and invented salary figures, lose the thread. `extra-income` is a workflow instead.
+Generic "how do I make money with AI" prompts are one-off: paste a prompt, get ten interchangeable ideas and invented salary figures, lose the thread. `monetize` is a workflow instead.
 
-| One-off prompt | 💰 extra-income |
+| One-off prompt | 💰 monetize |
 |---|---|
 | Paste a prompt, re-explain your background | Parses a résumé, or interviews in short rounds; the profile is saved and reused |
 | Invents salary and market figures | Numbers are verified online with sources, or explicitly labeled "estimate" |
@@ -71,12 +71,12 @@ Runs modules 1–2 first so you can confirm the direction, then 3–6 to assembl
 
 ```bash
 # Recommended — installs into your agent's skill directory
-npx skills add zhengqiuyang/extra-income-skill
+npx skills add zhengqiuyang/monetize-skill
 ```
 
 ```bash
 # Manual
-git clone https://github.com/zhengqiuyang/extra-income-skill.git ~/.agents/skills/extra-income
+git clone https://github.com/zhengqiuyang/monetize-skill.git ~/.agents/skills/monetize
 ```
 
 > [!NOTE]
@@ -103,7 +103,7 @@ Just ask in natural language — the skill triggers on career and income questio
 English works the same: *"what side hustle fits my background?"*, *"how much can I make consulting on the side?"*
 
 > [!TIP]
-> You can also name it explicitly: "use the extra-income skill on @resume.pdf".
+> You can also name it explicitly: "use the monetize skill on @resume.pdf".
 
 <a id="sample"></a>
 
